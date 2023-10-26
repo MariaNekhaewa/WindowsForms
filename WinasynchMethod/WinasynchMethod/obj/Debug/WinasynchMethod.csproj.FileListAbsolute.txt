@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\WinasynchMethod\WinasynchMethod\bin\Debug\WinasynchMethod.exe.config
+C:\Users\User\source\repos\WinasynchMethod\WinasynchMethod\bin\Debug\WinasynchMethod.exe
+C:\Users\User\source\repos\WinasynchMethod\WinasynchMethod\bin\Debug\WinasynchMethod.pdb
+C:\Users\User\source\repos\WinasynchMethod\WinasynchMethod\obj\Debug\WinasynchMethod.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WinasynchMethod\WinasynchMethod\obj\Debug\WinasynchMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\WinasynchMethod\WinasynchMethod\obj\Debug\WinasynchMethod.Form1.resources
+C:\Users\User\source\repos\WinasynchMethod\WinasynchMethod\obj\Debug\WinasynchMethod.Properties.Resources.resources
+C:\Users\User\source\repos\WinasynchMethod\WinasynchMethod\obj\Debug\WinasynchMethod.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WinasynchMethod\WinasynchMethod\obj\Debug\WinasynchMethod.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WinasynchMethod\WinasynchMethod\obj\Debug\WinasynchMethod.exe
+C:\Users\User\source\repos\WinasynchMethod\WinasynchMethod\obj\Debug\WinasynchMethod.pdb

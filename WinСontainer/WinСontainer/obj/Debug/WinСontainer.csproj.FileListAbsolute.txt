@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\WinСontainer\WinСontainer\bin\Debug\WinСontainer.exe.config
+C:\Users\User\source\repos\WinСontainer\WinСontainer\bin\Debug\WinСontainer.exe
+C:\Users\User\source\repos\WinСontainer\WinСontainer\bin\Debug\WinСontainer.pdb
+C:\Users\User\source\repos\WinСontainer\WinСontainer\obj\Debug\WinСontainer.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WinСontainer\WinСontainer\obj\Debug\WinСontainer.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\WinСontainer\WinСontainer\obj\Debug\WinСontainer.Form1.resources
+C:\Users\User\source\repos\WinСontainer\WinСontainer\obj\Debug\WinСontainer.Properties.Resources.resources
+C:\Users\User\source\repos\WinСontainer\WinСontainer\obj\Debug\WinСontainer.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WinСontainer\WinСontainer\obj\Debug\WinСontainer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WinСontainer\WinСontainer\obj\Debug\WinСontainer.exe
+C:\Users\User\source\repos\WinСontainer\WinСontainer\obj\Debug\WinСontainer.pdb

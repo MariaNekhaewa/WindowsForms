@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\WinQuestion\WinQuestion\bin\Debug\WinQuestion.exe.config
+C:\Users\User\source\repos\WinQuestion\WinQuestion\bin\Debug\WinQuestion.exe
+C:\Users\User\source\repos\WinQuestion\WinQuestion\bin\Debug\WinQuestion.pdb
+C:\Users\User\source\repos\WinQuestion\WinQuestion\obj\Debug\WinQuestion.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WinQuestion\WinQuestion\obj\Debug\WinQuestion.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\WinQuestion\WinQuestion\obj\Debug\WinQuestion.WinQuestion.resources
+C:\Users\User\source\repos\WinQuestion\WinQuestion\obj\Debug\WinQuestion.Properties.Resources.resources
+C:\Users\User\source\repos\WinQuestion\WinQuestion\obj\Debug\WinQuestion.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WinQuestion\WinQuestion\obj\Debug\WinQuestion.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WinQuestion\WinQuestion\obj\Debug\WinQuestion.exe
+C:\Users\User\source\repos\WinQuestion\WinQuestion\obj\Debug\WinQuestion.pdb
